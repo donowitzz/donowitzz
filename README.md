@@ -5,11 +5,11 @@
 https://twitter.com/goktugzafeer 
 https://instagram.com/goktugzaferr
 
- <!---
- █۞███████]▄▄▄▄▄▄▄▄▄▄▄▄▃▂
- ▄▅█████████▅▄▃▂
-I███████████████████] 
-◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤ = --->
+ 
+ //█۞███████]▄▄▄▄▄▄▄▄▄▄▄▄▃▂
+  ▄▅█████████▅▄▃▂
+ I███████████████████] 
+ ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤ = //
  
 <!---
 donowitzz/donowitzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
